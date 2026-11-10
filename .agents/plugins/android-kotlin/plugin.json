@@ -1,0 +1,12 @@
+{
+  "name": "android-kotlin",
+  "displayName": "Android & Kotlin CLI Development",
+  "version": "1.0.0",
+  "description": "Complete CLI-first Android & Kotlin development workflow for Antigravity: Jetpack Compose, Gradle, ADB, SDK Manager, and architecture best practices without needing Android Studio.",
+  "suggestedPrompts": [
+    "Scaffold a new Kotlin + Jetpack Compose Android app in this workspace",
+    "Build the debug APK with Gradle and check for compilation issues",
+    "List connected Android devices/emulators and install the debug APK via ADB"
+  ]
+}
+
